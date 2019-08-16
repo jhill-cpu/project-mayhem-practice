@@ -6,10 +6,9 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <header2> Big ol balls </header2>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello World
+          Hello World. Look upon my website and despair.
         </p>
         <a
           className="App-link"
